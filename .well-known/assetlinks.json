@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "net.atos.vcs.realtime",
-    "sha256_cert_fingerprints":
-    ["90:C2:F4:61:63:6B:6D:7B:A6:79:96:10:49:FF:21:77:CD:27:D2:31:FF:68:7F:D7:BB:A7:6D:80:48:A6:4C:4E"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "net.atos.vcs.realtime",
+               "sha256_cert_fingerprints": ["90:C2:F4:61:63:6B:6D:7B:A6:79:96:10:49:FF:21:77:CD:27:D2:31:FF:68:7F:D7:BB:A7:6D:80:48:A6:4C:4E"] }
 }]
